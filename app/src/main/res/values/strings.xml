@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="welcome_all">WELCOME </string>
+    <string name="next_page">Next page</string>
+    <string name="t_page">T PAGE</string>
+    <string name="exit">EXIT</string>
+    <string name="infopage">INFOPAGE</string>
+    <string name="directions">DIRECTIONS</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="login">lOGIN</string>
+    <string name="email">EMAIL</string>
+    <string name="register">REGISTER</string>
+</resources>
